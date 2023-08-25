@@ -51,7 +51,7 @@ function startCountdown(){
             show("gameover");
 
                document.getElementById("gameover").innerHTML =
-                "<p>game over!</p> <p>your scroe is "+ score +". </p>";
+                "<p>game over!</p> <p>your score is "+ score +". </p>";
 
                 hide("time");
                 hide("correct");
